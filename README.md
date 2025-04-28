@@ -1,9 +1,17 @@
-# Build with Me + GitHub Copilot 🚀
+## Getting Started 👩🏽‍💻
 
-You can build along with me in this [Youtube video]() or read this [blog post]().
+1. Fork this repository to your GitHub account.
+2. Switch to the `api-start` branch.
+3. Clone the repository to your local machine.
 
-![Build with Me + GitHub Copilot on Youtube](link-to-image)
-![Build with Me + GitHub Copilot on the Blog](link-to-image)
+You can find next steps in the README on the `api-start` branch.
+
+
+## Build with Me + GitHub Copilot 🚀
+
+You can build along with me in this [Youtube video](https://www.youtube.com/watch?v=CJUbQ1QiBUY) or read this [blog post](https://github.blog/ai-and-ml/github-copilot/github-for-beginners-building-a-rest-api-with-copilot/).
+
+[![Build API Copilot](https://github.com/user-attachments/assets/a9e6f202-81c1-4b5e-9a77-6f03ee55938c)](https://www.youtube.com/watch?v=CJUbQ1QiBUY)
 
 # Planventure API 🚁
 A Flask-based REST API backend for the Planventure application.
@@ -16,13 +24,5 @@ Before you begin, ensure you have the following:
 - A Code Editor - [VS Code](https://code.visualstudio.com/download) is recommended
 - API Client (like [Bruno](https://github.com/usebruno/bruno))
 - Git - [Download & Install Git](https://git-scm.com/downloads)
-
-## 🚀 Getting Started
-
-1. Fork this repository to your GitHub account.
-2. Switch to the `api-start` branch.
-3. Clone the repository to your local machine.
-
-You can find next steps in the README on the `api-start` branch.
 
 Happy Coding!  🎉
